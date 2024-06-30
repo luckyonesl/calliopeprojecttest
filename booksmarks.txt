@@ -1,0 +1,6 @@
+https://inf-schule.de/informatiksysteme/calliope/lernstrecke_lora/lernstrecke/hardware
+https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html
+https://de.wikipedia.org/wiki/Programmablaufplan
+https://makecode.calliope.cc/
+https://thingspeak.com/
+https://app.diagrams.net/
